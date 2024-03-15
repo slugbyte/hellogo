@@ -1,4 +1,4 @@
-package util
+package idea
 import (
   // "fmt"
 )
