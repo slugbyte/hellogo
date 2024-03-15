@@ -1,4 +1,6 @@
-# how to setup a go project
+# messing around figuring go out
+
+### how to setup a go project
 
 ```sh
 
