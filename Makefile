@@ -1,2 +1,2 @@
 run:
-	go run ./cmd/gowamy/main.go
+	go run ./cmd/hellogo/main.go
